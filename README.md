@@ -3,7 +3,8 @@
 **Русифицированное мобильное приложение для видеорегистраторов Subaru (H0013FL100 и аналоги) на Android.**
 
 [![Версия](https://img.shields.io/badge/Версия-2.0.0--RU2-blue)](https://github.com/yourusername/dr-viewer-ru2/releases)
-[![Android](https://img.shields.io/badge/Android-7+-green)](https://www.android.com)
+[![Android](https://img.shields.io/badge/Android-14%2B-brightgreen?logo=android)](https://www.android.com/android-14/)
+[![Kotlin](https://img.shields.io/badge/Kotlin-2.1.0-blue?logo=kotlin)](https://kotlinlang.org/)
 [![Drive2](https://img.shields.io/badge/DRIVE2-Посты-orange)](https://www.drive2.ru/l/639547157166179394/)
 
 ---
