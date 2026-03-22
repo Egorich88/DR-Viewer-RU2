@@ -64,7 +64,7 @@
 | **Экран приветствия** | ![Приветствие оригинал](images/splash_original.png) | ![Приветствие RU2](images/splash_ru.png) |
 | **Инструкция** | ![Инструкция оригинал](images/help_original_2.png) | ![Инструкция RU2](images/help_ru_2.png) |
 | **Главное меню** | ![Меню оригинал](images/menu_original.png) | ![Меню RU2](images/boss_menu.jpg) |
-| **Отчёт о вождении** | ![Вождение оригинал](images/driving_original.png) | ![Вождение RU2](images/drive.jpg) |
+| **Отчёт о вождении** | ![Вождение оригинал](images/screen-4.jpg) | ![Вождение RU2](images/drive.jpg) |
 | **Настройки** | ![Настройки оригинал](images/settings_original.png) | ![Настройки RU2](images/menu.jpg) |
 
 ---
