@@ -63,9 +63,9 @@
 | **Иконка** | ![Иконка оригинал](images/icon_original.png) | ![Иконка RU2](images/icon_ru.png) |
 | **Экран приветствия** | ![Приветствие оригинал](images/splash_original.png) | ![Приветствие RU2](images/splash_ru.png) |
 | **Инструкция** | ![Инструкция оригинал](images/help_original_2.png) | ![Инструкция RU2](images/help_ru_2.png) |
-| **Главное меню** | ![Меню оригинал](images/menu_original.png) | ![Меню RU2](images/menu_ru2.png) |
-| **Отчёт о вождении** | ![Вождение оригинал](images/driving_original.png) | ![Вождение RU2](images/driving_ru2.png) |
-| **Настройки** | ![Настройки оригинал](images/settings_original.png) | ![Настройки RU2](images/settings_ru2.png) |
+| **Главное меню** | ![Меню оригинал](images/menu_original.png) | ![Меню RU2](images/boss_menu.png) |
+| **Отчёт о вождении** | ![Вождение оригинал](images/driving_original.png) | ![Вождение RU2](images/drive.png) |
+| **Настройки** | ![Настройки оригинал](images/settings_original.png) | ![Настройки RU2](images/menu.png) |
 
 *Для корректного отображения поместите скриншоты в папку `images` с указанными именами файлов.*
 
