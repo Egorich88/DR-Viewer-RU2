@@ -21,9 +21,15 @@
 
 ## 🛠️ Установка
 
-1.  **Скачайте** последнюю версию APK:  
-    [![Скачать APK](https://img.shields.io/badge/Скачать-APK-brightgreen?logo=android)](https://disk.yandex.ru/d/-Pk2UeT_c5oGHA)
+1.  **Скачайте** последнюю версию APK (рекомендуется):  
+    [![Скачать DR Viewer RU2](https://img.shields.io/badge/DR_Viewer_RU2-v2.0.0-brightgreen?logo=android)](https://disk.yandex.ru/d/-Pk2UeT_c5oGHA)
+    
+    **Предыдущая версия (v1.0.0)**:  
+    [![Скачать DR Viewer RU](https://img.shields.io/badge/DR_Viewer_RU-v1.0.0-blue?logo=android)](https://disk.yandex.ru/d/2YknaFwawqJVnw)
+    
 2.  **На телефоне:** Разрешите установку из неизвестных источников...
+3.  **Удалите** предыдущую версию приложения, если она у вас установлена...
+...
 
 ---
 
